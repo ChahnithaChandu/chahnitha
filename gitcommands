@@ -1,0 +1,61 @@
+ls- lists the contents of your current working directory.
+ls -a :List all files in a Linux directory including hidden (dot) files and directories
+ls -l :List files and show permissions, user owner, group owner, last modified/created date
+ls -R :List all files, and all the files inside of the directories (or just list the folder recursively)
+ls -S : List all files, sorted by file size
+ls -d : List all the directories in the given directory
+ls -X : Sort in alphabetical order by file extension
+ls -h  : Human readable – Size in MB or GB
+pwd : present working directory
+mkdir : creating a directory
+cd : change directory
+rmdir : deletion of the current directory
+touch : creation of new empty file
+cat : creating a file, displaying the file, append the file
+rm : rm is used to delete the file
+cp : cp is used to copy the one file into other file
+mv : mv is used to move the source file into destination file
+whoami: gives the current user
+head : head is used to display the content of the file from the top. to display top 10 lines
+tail : tail also displays the content from the bottom of the file. last 10 lines.
+tac: tac is the reverse of cat but displays the content in reverse order
+more: more is used to display the screenful content of the file
+id : id provides the userid and groupid
+su : su provides the administrative access
+passwd: The passwd is used to create and change password for the user
+useradd : The useradd is used to create the user
+groupadd : The groupadd is used to create the groupuser
+cut: The cut command is used to get the specific content of the file. 
+wc : The wc is used to count the number of lines,words, letters
+uniq: The uniq command is used to get the unique content of the file
+grep: grep is called the global expression print. It is used for searching a content of the file.
+sed : sed is stream  editor. It is used to edit the file content.
+tr : tr is used to translate the content from lowercase to uppercase
+od : The od command is used to display the content of a file in different s, such as hexadecimal, octal, and ASCII characters.
+gzip : The gzip command is used to truncate the file size. It is a compressing tool. It replaces the original file by the compressed file having '.gz' extension.
+gunzip : The gunzip command is used to decompress a file. It is a reverse operation of gzip command.
+find : The find command is used to find the particular file in the directory.
+locate : The locate command is used to search a file by file name. It is quite similar to find command; the difference is that it is a background process. It searches the file in the database, whereas the find command searches in the file system.
+date : The date command is used to display date, time, time zone, and more.
+ cal     : The cal command is used to display the current month's calendar with the current date highlighted.
+ time : The time command is used to display the amount of time taken
+ sleep : The sleep command is used to hold the command by specified amount of time.
+ zcat : The zcat command is used to display the compressed files.
+ df : The df command is used to display the disk space used in the file system.
+ mount : The mount command is used to connect an external device file system to the system's file system
+ exit : Linux exit command is used to exit from the current shell. It takes a parameter as a number and exits the shell with a return of status number.
+clear : It is used to clear the screen
+ip : Linux ip command is an updated version of the ipconfig command. It is used to assign an IP address, initialize an interface, disable an interface.
+ssh : Linux ssh command is used to create a remote connection through the ssh protocol.
+mail : The mail command is used to send emails from the command line.
+ping : The ping command is used to check the connectivity between two nodes, that is whether the server is connected. It is a short form of "Packet Internet Groper
+host : The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
+
+
+
+
+
+
+
+
+
