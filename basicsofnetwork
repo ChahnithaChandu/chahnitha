@@ -1,6 +1,6 @@
 The IPV4 contains 32 bits.
 The total number of IP's ranges from 0.0.0.0 to 255.255.255.255
-
+Refer to https://erikberg.com/notes/networks.html
 There are 5 classes in IPV4: 
 1.class A : If the first octect ranges from 0.0.0.0 to 127.255.255.255
 2.class B : The first bit ranges from 128.0.0.0 to 191.255.255.255
