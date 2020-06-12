@@ -1,6 +1,9 @@
+The IPV4 contains 32 bits.
+The total number of IP's ranges from 0.0.0.0 to 255.255.255.255
+
 There are 5 classes in IPV4: 
-1.class A : If the first octect ranges from 1-127
-2.class B : The first bit ranges from 128-191
-3.class C : The range is from 192-223
-4.class D : The range is from 224-239
-5.class E : The range is between 240-255
+1.class A : If the first octect ranges from 0.0.0.0 to 127.255.255.255
+2.class B : The first bit ranges from 128.0.0.0 to 191.255.255.255
+3.class C : The range is from 192.0.0.0-223.255.255.255
+4.class D : The range is from 224.0.0.0-239.255.255.255
+5.class E : The range is between 240.0.0.0-255.255.255.255
